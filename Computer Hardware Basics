@@ -8,25 +8,25 @@ The computer system is divided into different categories or functions
 
 Computer Hardware
 
-+. Motherboard – central circuit board which all other devices connect or interact.
++. Motherboard -– central circuit board which all other devices connect or interact.
 
-+. Power Supply – converts electricity into something usable for the computer.
++. Power Supply -– converts electricity into something usable for the computer.
 
-+. GPU - A GPU (graphics processing unit) accelerates rendering of images, videos, and animations by handling many calculations in parallel.
++. GPU -- A GPU (graphics processing unit) accelerates rendering of images, videos, and animations by handling many calculations in parallel.
 
-+. Hard Drive – Long-Term Information Storage.
++. Hard Drive -– Long-Term Information Storage.
 
-+. Ram – Short-Term information storage; lost after the computer is turned off.
++. Ram -– Short-Term information storage; lost after the computer is turned off.
 
-+. ROM – located on the motherboard and contains the stored firmware and basic instructions for bootup and essential tasks. This is non-volatile.
++. ROM -– located on the motherboard and contains the stored firmware and basic instructions for bootup and essential tasks. This is non-volatile.
 
-+. CPU – electronic circuit responsible for executing computer program instruction.
++. CPU -– electronic circuit responsible for executing computer program instruction.
 
-+. ALU – performs operations such as addition and subtraction.
++. ALU -– performs operations such as addition and subtraction.
 
-+. Control unit – coordinating machine activities.
++. Control unit -– coordinating machine activities.
 
-+. Processor register – data storage cells known as registers.
++. Processor register -– data storage cells known as registers.
 
 CPU Processing Stages.
 1. Transfer the data from the main memory into registers.
